@@ -28,3 +28,9 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # songstream-clone
+
+
+### Time
+```
+24th Aug 2019 to 22nd Sep 2019
+```

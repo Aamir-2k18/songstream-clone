@@ -1,8 +1,8 @@
 <template>
 <div>
-        <TrendingPlaylists></TrendingPlaylists>
+        <!-- <TrendingPlaylists></TrendingPlaylists> -->
         <div class="clearfix">&nbsp;</div>
-        <TrendingTracks></TrendingTracks>
+        <!-- <TrendingTracks></TrendingTracks> -->
 </div>
 </template>
 
